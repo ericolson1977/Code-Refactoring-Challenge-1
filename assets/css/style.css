@@ -8,6 +8,8 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Lines 12 through 45 will refer to the various elements of the header */
+
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -42,6 +44,8 @@ a {
     text-decoration: none;
 }
 
+/* Lines 49 through 56 refer to the large central image  */
+
 .hero {
     height: 800px;
     width: 100%;
@@ -50,6 +54,8 @@ a {
     background-size: cover;
     background-position: center;
 }
+
+/* Lines 60 through 98 refer to the various elements of the main */
 
 .content {
     width: 75%;
@@ -91,6 +97,8 @@ a {
     font-size: 36px;
 }
 
+/* Lines 102 through 137 refer to the various elements of the aside */
+
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -127,6 +135,8 @@ a {
 p {
     font-size: 16px;
 }
+
+/* Lines 141 to 150 refere to the various elements or the footer */
 
 .footer {
     padding: 30px;
