@@ -57,6 +57,10 @@ a {
 
 /* Lines 60 through 98 refer to the various elements of the main */
 
+p {
+    font-size: 16px;
+}
+
 .content {
     width: 75%;
     display: inline-block;
@@ -130,10 +134,6 @@ a {
     display: block;
     margin: 10px auto;
     max-width: 150px;
-}
-
-p {
-    font-size: 16px;
 }
 
 /* Lines 141 to 150 refere to the various elements or the footer */
